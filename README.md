@@ -1,5 +1,5 @@
-1. Project title: Guessing Game
-2. 
-Fri Jun 12 15:32:36 PDT 2020
-3. guessing.sh number of lines:
+Project title: Guessing Game  
+Fri Jun 12 15:36:05 PDT 2020
+  
+guessing.sh number of lines:
 25
